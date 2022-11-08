@@ -1,0 +1,21 @@
+.imagem {
+   
+height: 7cm;
+align-items: center;
+
+}
+
+body {
+align-items: center;
+color: rgb(114, 160, 174);
+text-align: center;
+
+   
+}
+   
+button {
+
+width: 90px;
+font-size: medium;
+
+}
